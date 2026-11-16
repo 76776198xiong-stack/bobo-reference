@@ -1,0 +1,108 @@
+[
+  {
+    "id": "B-SPEECH-001",
+    "file": "images/B-SPEECH-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "927cb66cea84c2a32e29ae32be801460bd7a496b2bda7f315ea2b1cbd0d16ab1",
+    "sha256": "ccc54ef8c05237ba90f2b95c0ec8a7bdde82941ca93ab5edfdc232166a4ba56e",
+    "bytes": 193227,
+    "status": "作者认可可用-不逐格重改",
+    "usage_boundary": "系列曾认可；图中有旧手指，后续只参考表情、讲解动作；手按11-04腮帮子团子手重做。"
+  },
+  {
+    "id": "B-THINK-001",
+    "file": "images/B-THINK-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "dada1001b69e0802b078074c2b747286e415c9d4234c6fe6076e44c2f6820c5d",
+    "sha256": "f9cab27070bc97972e39ccaf0c79804c4f5b11ec54b15410e34809d2a6d7370c",
+    "bytes": 147035,
+    "status": "作者认可系列；仅参考副本，原图待补",
+    "usage_boundary": "作者认可系列；仅参考副本，原图待补；不继承图中的旧手型。"
+  },
+  {
+    "id": "B-POUCH-001",
+    "file": "images/B-POUCH-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "70cfd27aa1ad1587816736db0e9b34561ebad9053aa41cc11f3fe9b09651dc47",
+    "sha256": "75ef6ac197ddccd613291fcb4a46cbe213fe7de22b90213bded0f7ac849f9154",
+    "bytes": 139041,
+    "status": "已登记候选参考；原图待补；锦囊外观与最终手型待裁决",
+    "usage_boundary": "锦囊设计和最终手型未定，参考副本不是完整生产资产。"
+  },
+  {
+    "id": "B-WORK-001",
+    "file": "images/B-WORK-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "de4c8d4d12c78c6c9c5c2702ce7f3aea391b85c929c98d6de5745ab40afc2c9a",
+    "sha256": "ef136a1a834d15dfa35cfdaf2b9b9d3e862da17eac21f599016d641a0d3c20fc",
+    "bytes": 184286,
+    "status": "已登记系列参考；旧手型保留不重画；原图待补",
+    "usage_boundary": "情绪和形变参考；旧手型保留历史，原图待补。"
+  },
+  {
+    "id": "B-HAND-DESIGN-001",
+    "file": "images/B-HAND-DESIGN-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "93f503bd0da34d2b1e94968f5a595d23b7de3e659d08a82d37a29e961787a6da",
+    "sha256": "11e9d77d23cd7fcfa6f9cec8dc08997e445d626f69a608823473feb887cec461",
+    "bytes": 193057,
+    "status": "当前团子手规则参考；近身采用第2行，可断开悬浮；原图待补",
+    "usage_boundary": "团子手形态参考；图中从身体两侧出手的动作已被11-04腮帮子出手覆盖。"
+  },
+  {
+    "id": "B-PROP-001",
+    "file": "images/B-PROP-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "56e7d8f22e6f6044127d8c1afb0d14b84e82ce04808795776714ae827b877f4d",
+    "sha256": "9027fd5984165b0ccdacab271f0171705ab19d49e1adccf7830cfe8915a71e33",
+    "bytes": 130543,
+    "status": "作者认可-11-03",
+    "usage_boundary": "道具参考；单独透明道具及生产可用性未验收。"
+  },
+  {
+    "id": "B-PROPHOLD-001",
+    "file": "images/B-PROPHOLD-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "c3216a7257759e901521f074997433d29f6b51bbb4cf40e80121d5472543a6b5",
+    "sha256": "3c8905c8ff58e21590716a4842d7b87465dd262d2c3393517675f33cf723c793",
+    "bytes": 211921,
+    "status": "作者认可-11-03",
+    "usage_boundary": "11-04作者反馈脸不像，只参考道具与动作，脸以母版为准。"
+  },
+  {
+    "id": "B-HANDKEY-001",
+    "file": "images/B-HANDKEY-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "824c8ae4d844efdfdc5983db8f695601a6a845d5fe56e71f1fda06ceca338319",
+    "sha256": "2187734dd24dd17aadc6cadd2a2491d55c5934e9dc24b6cce9a876563ea72b83",
+    "bytes": 163928,
+    "status": "作者认可-11-03",
+    "usage_boundary": "腮帮子鼓包出手被作者留下；图中脸不像，不能当新母版。"
+  },
+  {
+    "id": "B-TEACH-001",
+    "file": "images/B-TEACH-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "3e3f1a3859ec3c97f9228b80c8b86d4112dfd461ec18a5fc2b7cdf0d09b56281",
+    "sha256": "af948f8d8c092199d75b1711cc62946ab34cd35124ac9433624d50e47e89487a",
+    "bytes": 129194,
+    "status": "候选素材-待作者审核",
+    "usage_boundary": "候选待审，不能因有文件就直接发布。"
+  },
+  {
+    "id": "B-MASTER-001",
+    "file": "images/bobo-master-preview.jpg",
+    "role": "既有小预览逐字复制",
+    "sha256": "c0c41fc1a51c3952a83a4e6dff09567b997a3a29930238b1b08dc195df05c899",
+    "bytes": 86536,
+    "status": "原母版历史对照"
+  },
+  {
+    "id": "B-MASTER-001-EYE-v1",
+    "file": "images/bobo-master-eye-v1-preview.jpg",
+    "role": "既有小预览逐字复制",
+    "sha256": "406749653a7365747febad085541b661ea2f1c2a83062b212600c513fba79563",
+    "bytes": 86997,
+    "status": "主页采用高光版（作者11-16定）"
+  }
+]
