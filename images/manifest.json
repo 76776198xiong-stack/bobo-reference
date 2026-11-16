@@ -104,5 +104,145 @@
     "sha256": "406749653a7365747febad085541b661ea2f1c2a83062b212600c513fba79563",
     "bytes": 86997,
     "status": "主页采用高光版（作者11-16定）"
+  },
+  {
+    "id": "B-001",
+    "file": "历史废弃/新版过程参考/B-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "acafefd73a4e4231d9d69fe7f127da0bb67555755dfc3f68cb1527b9a232c8f5",
+    "sha256": "abcb99bdf6d3559d3317150681d6711c999bfbdb1dcebef60aee304c281fff76",
+    "bytes": 175267,
+    "status": "历史标准整板-当前单体见B-MASTER-001",
+    "usage_boundary": "历史整板，不再作为标准母版。"
+  },
+  {
+    "id": "B-002",
+    "file": "历史废弃/新版过程参考/B-002-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "2656bd69aec03b97fada83d3c01332376eaab6f0ff448348b795a7fd40195e17",
+    "sha256": "0b79ad5eaf79c11d4c8b940bfbd52a1c6e1caa8477cdca77b5fbc09974702ac8",
+    "bytes": 195989,
+    "status": "历史参考-用户认为表情不够有趣",
+    "usage_boundary": "作者认为表情不够有趣；退出完成依据。"
+  },
+  {
+    "id": "B-003",
+    "file": "images/待筛选与修订/B-003-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "9875e0798b74d01f5d79f80506813147e085c094ae6675a7fad21c414bc2e683",
+    "sha256": "fae213d3ee94e41fd287dcc2dbeb1219666ef01a955b707f5131540fd2c8ada8",
+    "bytes": 194377,
+    "status": "待用户筛选",
+    "usage_boundary": "待筛选，版本号较高不代表已通过。"
+  },
+  {
+    "id": "B-004",
+    "file": "images/待筛选与修订/B-004-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "f4125742c05a7a5b7ab2d38ab1b54f803eef9e28b638502c856ad94408e2ff6c",
+    "sha256": "3c9c43b60fc583f54228aea7710699ba88fe710e68d5d4a7bcc364b3aeb574a5",
+    "bytes": 212003,
+    "status": "待用户筛选",
+    "usage_boundary": "待筛选，版本号较高不代表已通过。"
+  },
+  {
+    "id": "B-REF-001",
+    "file": "images/待筛选与修订/B-REF-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "fae2bed19e924f9e7d934672b27713ec28bc269c6b87b999a3cb370f1978b635",
+    "sha256": "96a83e5eca2599d53d033daa50806aa416acc51ca24d32147365f63816a2946f",
+    "bytes": 120248,
+    "status": "待用户筛选",
+    "usage_boundary": "待筛选，版本号较高不代表已通过。"
+  },
+  {
+    "id": "B-005",
+    "file": "images/待筛选与修订/B-005-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "b9bbafb1ef7e6ed3ce47b42f6ee8293dfd6edaad19a769cb04b76c5869112b19",
+    "sha256": "342c040f4f187e3cff3f275ec8020ff7c57442b69e7028ffa211d1fb309181c1",
+    "bytes": 316850,
+    "status": "待用户筛选",
+    "usage_boundary": "待筛选，版本号较高不代表已通过。"
+  },
+  {
+    "id": "B-006",
+    "file": "历史废弃/新版过程参考/B-006-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "dacbde6ac78ecba08c78d05706de63df3438616a048ad6f3e4a265e7d19eb04b",
+    "sha256": "7a14776a757c047b8a02ddc2dc995352b90a2408017eecbb6bd6aace04ca0c30",
+    "bytes": 404857,
+    "status": "用户否决-形象偏移",
+    "usage_boundary": "已否决：形象偏移。"
+  },
+  {
+    "id": "B-HAND-001",
+    "file": "历史废弃/新版过程参考/B-HAND-001-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "9faa34a3860581ce2336370ab21d8939d1a724cdcfa22daca7e0bb953298a405",
+    "sha256": "ef39d44c1133909f6acb53829868327b7a363ec4ae65435ab45f592f33d6cd8c",
+    "bytes": 157505,
+    "status": "历史手规则对照；手型由B5a及B-HAND-DESIGN-001取代",
+    "usage_boundary": "旧手规则对照，已被团子手及腮帮子规则替代。"
+  },
+  {
+    "id": "B-SPEECH-001-EYE-v1",
+    "file": "images/待筛选与修订/B-SPEECH-001-EYE-v1-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "050417190fdf5062c7b667d40fd5025628ac44840dfd469cd056ffece780e211",
+    "sha256": "cd0365fdeffab041705334b26e6ecd8722dbedc313a46b5d45412009a4a7dcd8",
+    "bytes": 188535,
+    "status": "高光修订，未逐张最终验收",
+    "usage_boundary": "修订版与原件分别保留；主页采用不等于整批动作验收。"
+  },
+  {
+    "id": "B-THINK-001-EYE-v1",
+    "file": "images/待筛选与修订/B-THINK-001-EYE-v1-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "123950ca05b91fd8ad462a949583db20fa0443a44335043fc681e5f738170330",
+    "sha256": "39f5e1f16f23ba49200aea0e55c78a8dfe9d62b0b3b38fc601ffd5dd28dcd9ad",
+    "bytes": 144597,
+    "status": "高光修订，未逐张最终验收",
+    "usage_boundary": "修订版与原件分别保留；主页采用不等于整批动作验收。"
+  },
+  {
+    "id": "B-WORK-001-EYE-v1",
+    "file": "images/待筛选与修订/B-WORK-001-EYE-v1-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "63fa255453f621853cab7722be745ae033f1d03a45ee7372cd8a24dfa7ed1cc6",
+    "sha256": "8f58526a8e9a5711436e030bdcd5cfa62e7a2aad84e115b7a09b82a19597b832",
+    "bytes": 179410,
+    "status": "高光修订，未逐张最终验收",
+    "usage_boundary": "修订版与原件分别保留；主页采用不等于整批动作验收。"
+  },
+  {
+    "id": "SOC-1112-01",
+    "file": "images/待筛选与修订/SOC-1112-01-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "32f4b9c95e9d39025be8865f9e24d9b23b6ea30b3f28c2267003f92a522643bb",
+    "sha256": "e26483eb576667de04540ee9d010c5960076f42b4b49bdc1f56cd19ca0671f46",
+    "bytes": 198396,
+    "status": "文件已归档，创意认可与形象合格分开",
+    "usage_boundary": "相关讨论含办公室、写字楼窗景、键盘小窝；当前不能把三张按文件时间猜成已选头像。"
+  },
+  {
+    "id": "SOC-1112-02",
+    "file": "images/待筛选与修订/SOC-1112-02-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "bcc939e7b2593a8b9653d56ff11abdddf0245aec312c734d9f6545dcbffb5359",
+    "sha256": "8b6f971791dad4034c91205b2999378be8534b777fc789ec7039a7fc2fbc1f26",
+    "bytes": 222307,
+    "status": "文件已归档，创意认可与形象合格分开",
+    "usage_boundary": "相关讨论含办公室、写字楼窗景、键盘小窝；当前不能把三张按文件时间猜成已选头像。"
+  },
+  {
+    "id": "SOC-1112-03",
+    "file": "images/待筛选与修订/SOC-1112-03-preview.jpg",
+    "role": "等比缩小JPEG预览，未裁切未重绘",
+    "source_sha256": "838ae698af13ff7f987f0823f90c2e859b7bf6fffaf541afdae10d95e167662f",
+    "sha256": "03368e2e8be055cb3fbdbe919654a4d7c9cb6334b27126892c739df4b5e521a2",
+    "bytes": 241331,
+    "status": "文件已归档，创意认可与形象合格分开",
+    "usage_boundary": "相关讨论含办公室、写字楼窗景、键盘小窝；当前不能把三张按文件时间猜成已选头像。"
   }
 ]
